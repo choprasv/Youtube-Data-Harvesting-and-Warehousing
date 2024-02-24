@@ -1,4 +1,4 @@
-# YouTube Data Harvesting Warehousing and Data Analysis
+# YouTube Data Harvesting and Warehousing using SQL, MongoDB and Streamlit
 ![image](https://github.com/choprasv/Youtube-Data-Harvesting-and-Warehousing/blob/main/youtube.png)
 
 # Aim of the project
@@ -81,5 +81,5 @@
    - IDE: Visual Studio Code
 
 
-# Result :
+# Result
    - This project focuses on harvesting YouTube data using the YouTube API, storing it in MongoDB, converting to SQL for analysis. Utilizes Streamlit, Python, and various methods. Expertise includes Python, MongoDB, SQL, API integration, and data management tools . This project mainly reduces 80% percentage of manually data processing and data storing work effectively.
