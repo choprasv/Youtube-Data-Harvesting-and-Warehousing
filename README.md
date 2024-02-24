@@ -1,5 +1,5 @@
 # YouTube Data Harvesting Warehousing and Data Analysis
-![image](github.com/choprasv/Youtube-Data-Harvesting-and-Warehousing/youtube.png)
+![image](https://github.com/choprasv/Youtube-Data-Harvesting-and-Warehousing/blob/main/youtube.png)
 
 # Aim of the project
 
